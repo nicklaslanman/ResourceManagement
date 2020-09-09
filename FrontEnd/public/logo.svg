@@ -1,0 +1,24 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient5225">
+   <stop offset="0" id="stop5227" stop-color="#2294fe"/>
+   <stop offset="1" id="stop5229" stop-color="#014f96"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient5225" id="linearGradient5311" x1="0.50403" y1="0.02419" x2="0.5" y2="1"/>
+ </defs>
+ <metadata id="metadata4698">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g5286">
+    <g id="text4703" font-family="Bitstream Vera Sans" fill="#666666" font-weight="normal" font-style="normal" font-size="227.36433px"/>
+    <g id="text4707" font-family="Bitstream Vera Sans" fill="#666666" font-weight="normal" font-style="normal" font-size="102.52679px"/>
+    <g transform="matrix(0.43788811,-0.43788811,0.43788811,0.43788811,-547.02034,450.07345) " id="g5278">
+     <path id="path4711" d="m1421.05331,678.73681c0,157.73809 -127.87198,285.61007 -285.61007,285.61007c-157.73809,0 -285.61008,-127.87198 -285.61008,-285.61007c0,-157.73809 127.87199,-285.61008 285.61008,-285.61008c157.73809,0 285.61007,127.87199 285.61007,285.61008z" fill="url(#linearGradient5311)"/>
+     <path d="m1309.34298,792.4472c0,96.04215 -77.85754,173.89968 -173.89968,173.89968c-96.04215,0 -173.89969,-77.85754 -173.89969,-173.89968c0,-96.04215 77.85754,-173.89969 173.89969,-173.89969c96.04215,0 173.89968,77.85754 173.89968,173.89969z" id="path4713" fill="#eeeeee"/>
+    </g>
+   </g>
+  </g>
+  <rect fill="null" stroke="null" stroke-width="null" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1344.87778" y="237.57684" width="16.85597" height="0" id="svg_2"/>
+ </g>
+</svg>

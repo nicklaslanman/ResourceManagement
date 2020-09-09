@@ -15,11 +15,3 @@ React Application with lightweight Node.js and Express Back-End <br/>
   npm i 
   npm start
 ```
-
-### TODO <br/>
-* Pagination <br/>
-* D3.js Graphs on Overview Page <br/>
-* Form Validation <br/>
-* Populate Help Page <br/>
-* Add more Skills <br/>
-* Edit Dark Theme CSS <br/>
